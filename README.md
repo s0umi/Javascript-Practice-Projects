@@ -1,2 +1,2 @@
->This is a practice repository for Chai aur JavaScript and Angela Yu's projects.
+>This is a practice repository for Chai aur JavaScript playlist and Angela Yu's projects.
 
